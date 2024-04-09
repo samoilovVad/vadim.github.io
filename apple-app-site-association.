@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "8288GX8V9Y.com.uvotv.uvotv",
-            "paths": ["*"]
+            "paths": ["*", "NOT /path-for-redirection/*"]
         }]
     }
 }
