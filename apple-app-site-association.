@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "teamId.com.uvotv.uvotv",
+            "paths": ["*"]
+        }]
+    }
+}
